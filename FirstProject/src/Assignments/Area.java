@@ -43,6 +43,7 @@ public class Area {
 		System.out.println("Area of circle "+cr.areas(6));
 		Area sq = new Area();
 		System.out.println("Area of square "+sq.areas(7));
+		//area 
 		
 		
 
